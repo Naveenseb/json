@@ -1,0 +1,58 @@
+{
+    "districts":[
+        {
+            "id": 1,
+            "name": "Kasargod"
+        },
+        {
+            "id": 2,
+            "name": "Kannur"
+        },
+        {
+            "id": 3,
+            "name": "Kozhikode"
+        },
+        {
+            "id": 4,
+            "name": "Malappuram"
+        },
+        {
+            "id": 5,
+            "name": "Palakkad"
+        },
+        {
+            "id": 6,
+            "name": "Thrissur"
+        },
+        {
+            "id": 7,
+            "name": "Ernakulam"
+        },
+        {
+            "id": 8,
+            "name":"Kottayam"
+        }
+    ],
+    "panchayaths": [
+        {
+            "id": 1,
+            "did": 7,
+            "name": "Muvattupuzha"
+        },
+        {
+            "id":2,
+            "did": 7,
+            "name":"Kaloor"
+        },
+        {
+            "id": 3,
+            "did": 8,
+            "name": "Pala"
+        },
+        {
+            "id":4,
+            "did":8,
+            "name":"Erattupetta"
+        }
+    ]
+}
